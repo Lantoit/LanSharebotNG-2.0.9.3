@@ -10,3 +10,6 @@ I've added (thanks to marlin firmware and some spare parts):
 3) DRV8825 for X, Y and Z 
 
 I've enabled some other marlin features to work better alone and with Octoprint (https://octoprint.org/)
+
+Some problem ?! Z offset <> 0!!!
+Check Z offset!!!
